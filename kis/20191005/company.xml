@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<company>
+  <department name="技術部門" floor='3rd'>
+    <person position="部長">佐藤 太郎</person>
+    <person position="プログラマ">鈴木 花子</person>
+  </department>
+  <department name="人事部門" floor='2nd'>
+    <person position="部長">鈴木 隆史</person>
+    <person position="システム管理者">田中 康介</person>
+  </department>
+  <department name="営業部門" floor='1st'>
+    <person position="部長">斎藤 次郎</person>
+    <person position="営業担当">木村 美冬</person>
+  </department>
+</company>
